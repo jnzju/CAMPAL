@@ -1,0 +1,3 @@
+from .autoaugmentors import AutoAugment, RandAugment, TrivialAugmentWide, AutoAugmentPolicy
+from .myaugmentors_single import StrengthGuidedAugmentSingle
+from .myaugmentors_mix import StrengthGuidedAugmentMixing
