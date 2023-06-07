@@ -2,20 +2,17 @@
 
 
 
-This is a [PyTorch](https://pytorch.org/) implementation of our ICLR 2022 paper [CAMPAL](openreview.net/forum?id=vE93gf9kYkf).
+This is a [PyTorch](https://pytorch.org/) implementation of our ICML 2023 paper [CAMPAL](https://openreview.net/forum?id=DXWm3vnG6P).
 
 Title: Active Learning with Controllable Augmentation-induced Acquisition
 
 Authors: Jianan Yang, Haobo Wang, Sai Wu, Gang Chen, Junbo Zhao
 
 ```
-@inproceedings{anonymous2023active,
-	title={Active Learning with Controllable Augmentation Induced Acquisition},
-	author={Anonymous},
-	booktitle={Submitted to The Eleventh International Conference on Learning Representations },
-	year={2023},
-	url={https://openreview.net/forum?id=vE93gf9kYkf},
-	note={under review}
+@article{yang2023active,
+  title={Active Learning with Controllable Augmentation Induced Acquisition},
+  author={Yang, Jianan and Wang, Haobo and Wu, Sai and Chen, Gang and Zhao, Junbo},
+  year={2023}
 }
 ```
 
